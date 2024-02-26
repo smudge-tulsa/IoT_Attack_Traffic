@@ -9,6 +9,7 @@ Botnet attacks occur when large numbers of machines have been taken over by an a
   Several common attacks are DDoS (distributed denial of service), credential theft, spamming and phishing and ad fraud.
   
 ANALYZING DATA USING ETL METHOD
+
 Do you want to gather and analyze botnet data using the ETL method?  You got it!
   Locate a dataset.
   Use Pandas (Jupyter notebook) to extract raw data from the dataset and to transform raw data into a readable table.
@@ -16,9 +17,11 @@ Do you want to gather and analyze botnet data using the ETL method?  You got it!
   The readable table can then be loaded into a PGAdmin database.
   
 ETHICS
+
 Botnets are considered unethical because they are created by cyber criminals to misuse data.  This project is not unethical because data was only used to analyze, transform and load into a database to store for current and/or future use.
 
 CITING
+
 EC Council Exchange. (2023). 
 Botnet Attacks and Their Prevention Techniques Explained.  
 https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/botnet-attack prevention/#:~:text=Botnet%20attacks%20typically%20involve%20stealing,taken%2  0over%20by%20the%20attacker
