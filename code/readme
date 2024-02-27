@@ -1,2 +1,3 @@
-This folder contains the code base in the form of two Jupyter notebooks. Project 3.ipynb is the base code where data is acquired, ETL performed, and data is saved to PostgreSQL.
+This folder contains the code base in the form of two Jupyter notebooks.
+Project 3.ipynb is the base code where data is acquired, ETL performed, and data is saved to PostgreSQL.
 suricata.ipynb is the second half where attack traffic is exported to suricata IDS rule files.
